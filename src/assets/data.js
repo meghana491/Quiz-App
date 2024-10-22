@@ -1,0 +1,42 @@
+export const data = [
+    {
+      question: "What is the primary purpose of the useState hook in React",
+      option1: "To define and manage component state",
+      option2: "To handle asynchronous operations",
+      option3: "To perform side effects after render",
+      option4: "To create custom hooks",
+      ans: 1,
+    },
+    {
+      question: "How do you pass data from a parent component to its child components in React?",
+      option1: "Using props",
+      option2: "Using state",
+      option3: "Using context",
+      option4: "Using callbacks",
+      ans: 1,
+    },
+    {
+      question: "Which of the following is the correct syntax for conditionally rendering an element in React?",
+      option1: "if (condition) { return <div>...</div>; }",
+      option2: "<div>{condition ? 'True' : 'False'}</div>",
+      option3: "<ConditionalRender condition={condition}>...</ConditionalRender>",
+      option4: "<div if={condition}>...</div>",
+      ans: 2,
+    },
+    {
+      question: "A computer cannot BOOT if it does not have the?",
+      option1: "Application Software",
+      option2: "Internet",
+      option3: "Operating System",
+      option4: "Mouse",
+      ans: 3,
+    },
+    {
+      question: "First page of Website is termed as?",
+      option1: "Index Page",
+      option2: "Homepage",
+      option3: "Sitemap",
+      option4: "Pen Drive",
+      ans: 2,
+    },
+  ];
